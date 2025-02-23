@@ -9,6 +9,8 @@
 
 Ever wished your coffee-break doodles could look like museum masterpieces? Say hello to **Doodle Magic Maker** - your personal AI art wizard! 🪄 Transform simple sketches into stunning artwork using the magical combination of Stable Diffusion, ControlNet, and Google's Gemini Vision. Whether you're a professional artist or just someone who loves drawing stick figures, we've got you covered! 
 
+See this wonder in action : https://doodletoart-by-akshara.streamlit.app/
+
 ---
 
 ## ✨ Features That'll Make You Go "Wow!"
