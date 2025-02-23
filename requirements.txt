@@ -7,3 +7,4 @@ transformers
 google-cloud-vision
 google-generativeai
 numpy
+huggingface_hub
