@@ -19,17 +19,18 @@ def load_stable_diffusion_model():
         model_id = "runwayml/stable-diffusion-v1-5"
         controlnet_id = "lllyasviel/control_v11p_sd15_scribble"
 
-        # Load ControlNet model
+        # Load with CPU support only
         controlnet = ControlNetModel.from_pretrained(
-            controlnet_id, torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32
+            controlnet_id, 
+            torch_dtype=torch.float32
         )
 
         # Load Stable Diffusion with ControlNet
         st.session_state.sd_model = StableDiffusionControlNetPipeline.from_pretrained(
             model_id,
             controlnet=controlnet,
-            torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32
-        ).to("cuda" if torch.cuda.is_available() else "cpu")
+            torch_dtype=torch.float32
+        ).to("cpu")
 
     return st.session_state.sd_model
 
