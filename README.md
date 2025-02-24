@@ -116,6 +116,7 @@ Special thanks to our magical partners:
 - 🎨 [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - for the artistic sorcery
 - 🎯 [ControlNet](https://github.com/lllyasviel/ControlNet) - for keeping our spells on target
 - 🧠 [Google Gemini](https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini) - for the AI wisdom
+- ➡️ [Openai Clip ](https://openai.com/index/clip/)- seamless text to image integration
 
 ---
 
