@@ -9,7 +9,13 @@
 
 Ever wished your coffee-break doodles could look like museum masterpieces? Say hello to **Doodle Magic Maker** - your personal AI art wizard! 🪄 Transform simple sketches into stunning artwork using the magical combination of Stable Diffusion, ControlNet, and Google's Gemini Vision. Whether you're a professional artist or just someone who loves drawing stick figures, we've got you covered! 
 
-See this wonder in action : https://doodletoart-by-akshara.streamlit.app/
+See this wonder in action: https://doodletoart-by-akshara.streamlit.app/
+
+## 🎬 Watch Doodle Magic in Action!
+
+[![Doodle Magic Maker Demo](https://img.youtube.com/vi/e1H6uaGP5X4/0.jpg)](https://www.youtube.com/watch?v=e1H6uaGP5X4 "Doodle Magic Maker - Turn Your Doodles into Art!")
+
+👆 *Click the image above to watch the demo video!*
 
 ---
 
@@ -116,7 +122,7 @@ Special thanks to our magical partners:
 - 🎨 [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - for the artistic sorcery
 - 🎯 [ControlNet](https://github.com/lllyasviel/ControlNet) - for keeping our spells on target
 - 🧠 [Google Gemini](https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/gemini) - for the AI wisdom
-- ➡️ [Openai Clip ](https://openai.com/index/clip/)- seamless text to image integration
+- ➡️ [Openai Clip](https://openai.com/index/clip/) - seamless text to image integration
 
 ---
 
