@@ -13,8 +13,6 @@
 
 [<img src="https://img.youtube.com/vi/e1H6uaGP5X4/0.jpg" width="600px" alt="Doodle Magic Maker Demo Video"/>](https://www.youtube.com/watch?v=e1H6uaGP5X4)
 
-<h4><a href="https://doodletoart-by-akshara.streamlit.app/">✨ Try It Now ✨</a></h4>
-
 </div>
 
 ---
@@ -232,7 +230,5 @@ This mystical creation is protected by the [MIT License](LICENSE) - ensuring fre
   <h2>✨ From Humble Doodles to Magnificent Art ✨</h2>
   <p><em>"Every masterpiece began as a sketch in someone's imagination."</em></p>
   <br>
-  <a href="https://doodletoart-by-akshara.streamlit.app/">
-    <img src="https://img.shields.io/badge/Try%20It%20Now-8A2BE2?style=for-the-badge" alt="Try It Now"/>
-  </a>
+
 </div>
