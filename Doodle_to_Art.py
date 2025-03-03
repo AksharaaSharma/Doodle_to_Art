@@ -9,6 +9,7 @@ import numpy as np
 import google.generativeai as genai
 from google.cloud import vision
 import base64
+import os
 
 # Read the API key from the system environment (GitHub Secrets)
 api_key = os.environ.get("GEMINI_API_KEY")
