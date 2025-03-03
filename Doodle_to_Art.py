@@ -11,16 +11,17 @@ from google.cloud import vision
 import base64
 import os
 
-# Read the API key from the system environment (GitHub Secrets)
-api_key = os.environ.get("GEMINI_API_KEY")
-
-# Check if the API key is available
-if not api_key:
-    raise ValueError("GEMINI_API_KEY not found. Make sure it is set in your environment variables.")
-
-# Configure Gemini API
-genai.configure(api_key=api_key)
-gemini_model = genai.GenerativeModel('gemini-1.5-flash')
+def configure_gemini(): 
+    # Read the API key from the system environment (GitHub Secrets)
+    api_key = os.environ.get("GEMINI_API_KEY")
+    
+    # Check if the API key is available
+    if not api_key:
+        raise ValueError("GEMINI_API_KEY not found. Make sure it is set in your environment variables.")
+    
+    # Configure Gemini API
+    genai.configure(api_key=api_key)
+    gemini_model = genai.GenerativeModel('gemini-1.5-flash')
 
 def load_stable_diffusion_model():
     if "sd_model" not in st.session_state:
