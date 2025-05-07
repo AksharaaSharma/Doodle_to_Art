@@ -11,7 +11,7 @@
 <h3><em>Transform Your Scribbles into Breathtaking Masterpieces</em></h3>
 <br>
 
-[<img src="https://img.youtube.com/vi/e1H6uaGP5X4/0.jpg" width="600px" alt="Doodle Magic Maker Demo Video"/>](https://www.youtube.com/watch?v=e1H6uaGP5X4)
+[See the Demo](https://www.youtube.com/watch?v=e1H6uaGP5X4)
 
 </div>
 
