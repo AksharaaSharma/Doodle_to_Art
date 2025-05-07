@@ -180,17 +180,6 @@ streamlit run app.py
   </tr>
 </table>
 
----
-
-## 🤝 Join the Circle of Creators
-
-Found a magical bug? Have an enchanting idea? Want to contribute your own spells? We welcome all wizards and witches to our creative coven!
-
-[![Open Issues](https://img.shields.io/github/issues/yourusername/doodle-magic-maker?style=for-the-badge)](https://github.com/yourusername/doodle-magic-maker/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/doodle-magic-maker?style=for-the-badge)](https://github.com/yourusername/doodle-magic-maker/pulls)
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="rainbow line" width="100%">
 </div>
